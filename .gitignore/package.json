@@ -1,14 +1,16 @@
 {
-  "name": "nami",
+  "name": "Nevo",
   "version": "1.0.0",
-  "description": "NamiBot développé par DrawZz.",
-  "main": "index.js",
+  "description": "NevoBot développé par DrawZz.",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DrawZz",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.3.2",
+    "discord.js-music-v11": "^1.3.4"
   }
 }
+
