@@ -36,7 +36,7 @@ bot.on('guildMemberAdd', member => {
 
 });
 
-bot.login(process.env.TOKEN);
+bot.login(process.env.loginuser);
 
 const client = new Discord.Client();
 
